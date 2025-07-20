@@ -1,0 +1,8 @@
+# Ignore Vercel deployment metadata
+.vercel
+# Ignore node modules
+node_modules
+# Ignore macOS system files
+.DS_Store
+# Ignore TypeScript build info
+*.tsbuildinfo

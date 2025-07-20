@@ -1,0 +1,8 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/tools/character-counter": "pages/tools/character-counter.js",
+  "/tools/password-generator": "pages/tools/password-generator.js",
+  "/tools/word-counter": "pages/tools/word-counter.js"
+}
